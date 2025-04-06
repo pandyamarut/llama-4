@@ -6,3 +6,7 @@
 # To learn more, see https://pip.pypa.io/en/stable/reference/requirements-file-format/
 
 runpod~=1.7.0
+torch
+transformers
+huggingface_hub
+accelerate
